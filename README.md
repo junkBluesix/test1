@@ -1,3 +1,5 @@
 # test1
 test1
-Some text to show that I have edited
+
+Second version of readMe text content
+Content is meaningless. Just here for testing purposes.
