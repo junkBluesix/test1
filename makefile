@@ -11,8 +11,8 @@
 
   all: $(TARGET)
 
-  $(TARGET): $(TARGET).c
+    $(TARGET): $(TARGET).c
     $(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c
   
   clean:
-  	$(RM) $(TARGET)
+    $(RM) $(TARGET)
