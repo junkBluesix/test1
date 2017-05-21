@@ -1,6 +1,4 @@
 # build an executable named myprog from myprog.c .
-hello:
-  gcc hello.c -o hello
+all:
+     gcc -o hello hello.c
 
-clean:
-  $(RM) hello
