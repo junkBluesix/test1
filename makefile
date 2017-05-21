@@ -1,4 +1,4 @@
-# build an executable named myprog from myprog.c
+# build an executable named myprog from myprog.c .
 all:
   gcc -g -Wall -o hello hello.c
 
