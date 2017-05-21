@@ -1,5 +1,2 @@
 language: c
-script: make
-compiler:
-  - clang
-  - gcc
+script: gcc hello.c
